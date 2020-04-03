@@ -1,5 +1,6 @@
 {
-  "categories": [{
+  "categories": [
+    {
       "id": 1,
       "name": "winter",
       "display_name": "winter"
@@ -14,11 +15,10 @@
       "name": "summer",
       "display_name": "summer"
     }
-  ]
-}
+  ],
 
-{
-  "starts": [{
+  "products": [
+    {
       "id": 1,
       "name": "kale",
       "category": "winter"
@@ -32,5 +32,6 @@
       "id": 3,
       "name": "bean",
       "category": "spring"
-    }]
+    }
+  ]
 }
